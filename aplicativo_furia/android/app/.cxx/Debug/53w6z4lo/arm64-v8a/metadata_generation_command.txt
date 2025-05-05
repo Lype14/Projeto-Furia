@@ -1,0 +1,20 @@
+                        -H/home/luis-felipe/fvm/versions/3.29.3/packages/flutter_tools/gradle/src/main/groovy
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/home/luis-felipe/Android/Sdk/ndk/26.3.11579264
+-DCMAKE_ANDROID_NDK=/home/luis-felipe/Android/Sdk/ndk/26.3.11579264
+-DCMAKE_TOOLCHAIN_FILE=/home/luis-felipe/Android/Sdk/ndk/26.3.11579264/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/luis-felipe/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/build/app/intermediates/cxx/Debug/53w6z4lo/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/build/app/intermediates/cxx/Debug/53w6z4lo/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/android/app/.cxx/Debug/53w6z4lo/arm64-v8a
+-GNinja
+-Wno-dev
+--no-warn-unused-cli
+                        Build command args: []
+                        Version: 2

@@ -1,0 +1,2 @@
+/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/android/app/.cxx/Debug/53w6z4lo/x86/CMakeFiles/edit_cache.dir
+/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/android/app/.cxx/Debug/53w6z4lo/x86/CMakeFiles/rebuild_cache.dir

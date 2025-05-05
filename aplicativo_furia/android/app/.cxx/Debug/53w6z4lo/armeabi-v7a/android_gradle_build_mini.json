@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/luis-felipe/fvm/versions/3.29.3/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/luis-felipe/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/android/app/.cxx/Debug/53w6z4lo/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/luis-felipe/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/luis-felipe/Área de trabalho/Projeto Furia/Projeto-Furia/aplicativo_furia/android/app/.cxx/Debug/53w6z4lo/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
